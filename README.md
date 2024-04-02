@@ -15,7 +15,5 @@
 
 ![壁纸](image/img.png)
 
-![Visitor Count](https://profile-counter.glitch.me/Ax-NET-02/count.svg)
-
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Ax-NET.
 
