@@ -1,12 +1,16 @@
-# 人生何处不青山
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+YaHei&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=人生何处不青山;你好，我是+Ax-NET-02;保持折腾，保持热爱;把想法变成现实" />
+# AX-NET-02
+
+### 人生何处不青山
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Ax-NET-02&style=flat-square&color=58A6FF&label=访问次数" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=8B9CFF&center=true&vCenter=true&width=700&lines=代码只是工具%EF%BC%8C创造才是目的;保持好奇%EF%BC%8C持续折腾;把脑海里的想法%EF%BC%8C变成现实;Stay+Curious.+Keep+Building." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Ax-NET-02&style=flat-square&color=555555&label=访问者" />
 
 </div>
 
@@ -14,43 +18,25 @@
 
 <div align="center">
 
-## 👋 你好，我是 Ax-NET-02
+## 「 关于我 」
 
-**一个喜欢折腾代码、服务器、NAS、AI、视频以及各种奇奇怪怪东西的人。**
+**开发者 · 折腾者 · 记录者**
 
-> 人生何处不青山，
-> 何必执着于眼前这一座。
+<br>
+
+喜欢研究代码，也喜欢研究代码之外的东西。
+
+从一个想法开始，
+写代码、搭服务器、折腾 NAS、研究 AI，
+然后把它真正做出来。
 
 </div>
 
----
-
-## 🧑‍💻 关于我
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   👨‍💻  程序开发                              │
-│   🖥️  NAS / 服务器                           │
-│   🤖  人工智能 / 本地大模型                  │
-│   🐳  Docker / 私有化部署                    │
-│   🎬  视频拍摄 / 剪辑                         │
-│   🛠️  喜欢折腾各种东西                        │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-* 🔭 正在做一些属于自己的小项目
-* 💻 主要折腾 **Vue 3 / TypeScript / Python / C++**
-* 🖥️ 喜欢研究 **NAS、服务器以及私有化部署**
-* 🤖 正在探索 **AI、本地大模型与自动化**
-* 🎬 对 **摄影、视频拍摄、剪辑** 有兴趣
-* 🧪 喜欢把脑子里的想法真正做出来
-* 📚 一边踩坑，一边学习
+<br>
 
 ---
 
-## 🚀 最近在做什么
+## 01 / 正在折腾
 
 <table>
 <tr>
@@ -58,23 +44,25 @@
 
 ### 🌱 轻盈小岛
 
-一个用于记录个人数据的 App。
+个人数据记录 App
 
-**技术**
+<br>
 
-`Vue 3` `TypeScript` `Vant` `IndexedDB`
+`Vue 3` · `TypeScript`
+`Vant` · `IndexedDB`
 
 </td>
 
 <td width="50%">
 
-### 🖥️ NAS 折腾计划
+### 🖥️ 私有化
 
-研究家庭服务器、NAS以及各种私有化服务。
+自己的服务器 / NAS
 
-**方向**
+<br>
 
-`Linux` `Docker` `NAS` `API`
+`Linux` · `Docker`
+`API` · `Self-hosted`
 
 </td>
 </tr>
@@ -84,23 +72,25 @@
 
 ### 🤖 本地 AI
 
-尝试在自己的设备上运行 AI 和大模型。
+探索本地大模型与自动化
 
-**方向**
+<br>
 
-`Ollama` `LLM` `Python` `自动化`
+`Ollama` · `LLM`
+`Python` · `Automation`
 
 </td>
 
 <td width="50%">
 
-### 🎬 视频创作
+### 🎬 内容创作
 
-记录生活、工作以及一些有意思的折腾过程。
+拍摄、剪辑、记录生活
 
-**方向**
+<br>
 
-`摄影` `拍摄` `剪辑` `内容创作`
+`Photography` · `Video`
+`Editing` · `Creation`
 
 </td>
 </tr>
@@ -108,37 +98,11 @@
 
 ---
 
-## 🛠️ 技术栈
+## 02 / 技术栈
 
 <div align="center">
 
-### 编程语言
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css" />
-
-<br><br>
-
-### 开发框架
-
-<img src="https://skillicons.dev/icons?i=vue,vite,nodejs,npm" />
-
-<br><br>
-
-### 工具与环境
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,nginx" />
-
-</div>
-
----
-
-## 📊 GitHub 数据
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ax-NET-02&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ax-NET-02&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+<img src="https://skillicons.dev/icons?i=vue,ts,js,python,cpp,vite,nodejs,docker,linux,ubuntu,git,github" />
 
 </div>
 
@@ -146,32 +110,52 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ax-NET-02&theme=transparent&hide_border=true" />
+`Vue 3`　`TypeScript`　`JavaScript`　`Python`　`C++`
+
+`Vite`　`Node.js`　`Docker`　`Linux`　`Git`
 
 </div>
 
 ---
 
-## 📈 我的贡献
+## 03 / GitHub
 
 <div align="center">
 
-[![贡献图](https://github-readme-activity-graph.vercel.app/graph?username=Ax-NET-02\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/Ax-NET-02)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ax-NET-02&show_icons=true&hide_border=true&theme=transparent&title_color=8B9CFF&text_color=8B8B8B&icon_color=8B9CFF&bg_color=00000000" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ax-NET-02&layout=compact&hide_border=true&theme=transparent&title_color=8B9CFF&text_color=8B8B8B&bg_color=00000000&langs_count=6" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ax-NET-02&hide_border=true&background=00000000&ring=8B9CFF&fire=8B9CFF&currStreakLabel=8B9CFF&sideLabels=888888&dates=666666&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 
 </div>
 
 ---
 
-## ⭐ 我的项目
+## 04 / 贡献记录
 
 <div align="center">
 
-<a href="https://github.com/Ax-NET-02">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ax-NET-02&repo=lightweight-island&theme=transparent&hide_border=true" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ax-NET-02&bg_color=00000000&color=777777&line=8B9CFF&point=FFFFFF&area=true&hide_border=true&custom_title=" />
 
-<a href="https://github.com/Ax-NET-02">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ax-NET-02&repo=your-project&theme=transparent&hide_border=true" />
+</div>
+
+---
+
+## 05 / 项目
+
+<div align="center">
+
+<a href="https://github.com/Ax-NET-02/lightweight-island">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ax-NET-02&repo=lightweight-island&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=777777&icon_color=8B9CFF" />
+
 </a>
 
 </div>
@@ -180,72 +164,66 @@
 
 <div align="center">
 
-**这里会慢慢放下我做过的东西。**
+**更多项目正在慢慢出现。**
 
 </div>
 
 ---
 
-## 🌱 正在学习
+## 06 / 关于我的一些关键词
 
 <div align="center">
 
-`Vue 3`　`TypeScript`　`Python`　`C++`　`Docker`
+### `代码`　`AI`　`NAS`　`Linux`　`Docker`
 
-`Linux`　`NAS`　`AI`　`大模型`　`自动化`
+### `摄影`　`视频`　`折腾`　`创造`
 
 </div>
 
 ---
-
-## 💭 一些话
-
-<div align="center">
-
-### 人生何处不青山
 
 <br>
 
-**不用急着证明自己。**
+<div align="center">
 
-**先把想做的事情做好。**
-
-**把一个个想法变成现实。**
+## 「 人生何处不青山 」
 
 <br>
 
-`学习 → 折腾 → 踩坑 → 解决 → 再折腾`
+> **去做自己真正想做的事情。**
+
+> **不必急着证明什么。**
+
+> **慢一点，也没关系。**
+
+<br>
+
+`BUILD · BREAK · FIX · REPEAT`
 
 </div>
 
 ---
 
-## 📮 找到我
-
 <div align="center">
+
+<br>
 
 <a href="https://github.com/Ax-NET-02">
-<img src="https://img.shields.io/badge/GitHub-Ax--NET--02-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-Ax--NET--02-111111?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
+
+ 
 
 <a href="https://space.bilibili.com/1800727927">
-<img src="https://img.shields.io/badge/哔哩哔哩-鱼刺的生存日记-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Bilibili-鱼刺的生存日记-111111?style=for-the-badge&logo=bilibili&logoColor=white" />
+
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<br>
-
-**感谢你来到这里。**
-
-**愿我们都能走出属于自己的路。**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:111111,100:151515&height=100&section=footer" />
 
 </div>
