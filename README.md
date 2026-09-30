@@ -7,7 +7,6 @@
 <div align="center">
 
 ## 「 关于我 」
-
 **开发者 · 折腾者 · 记录者**
 
 <br>
@@ -26,6 +25,7 @@
 
 ## 01 / 正在折腾
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -83,6 +83,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -119,12 +120,6 @@
 
 </div>
 
----
-
 <div align="center">
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer" />
-
 </div>
