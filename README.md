@@ -1,10 +1,10 @@
-## ⛰️ 人生何处不青山
+## 人生何处不青山
 
 <div id="title" align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Ax-NET-02;Video+Creator+%7C+Python+Developer;Welcome+to+Ax-NET+Hub!)](https://git.io/typing-svg)
 
-*用镜头捕捉光影，用代码重塑效率。*
+*用镜头捕捉光影，用代码重塑效率*
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 关于我 | About Me
 
-👋 欢迎来到我的主页！我是一名穿梭在**视频创作**与**程序开发**之间的跨界玩家，目前在成都打怪升级。
+👋 我是一名穿梭在**视频创作**与**程序开发**之间的跨界玩家，目前在成都打怪升级
 
 - 🎬 **主线任务:** 摄影剪辑与新媒体运营，擅长构筑视觉冲击力
 - 💻 **支线任务:** Python 开发者，热衷于构建美观实用的桌面级 GUI 应用 (PyQt6 / PySide6)
