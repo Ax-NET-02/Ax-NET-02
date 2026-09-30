@@ -1,63 +1,251 @@
-## 人生何处不青山
+# 人生何处不青山
 
-<div id="title" align="center">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Ax-NET-02;Video+Creator+%7C+Python+Developer;Welcome+to+Ax-NET+Hub!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+YaHei&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=人生何处不青山;你好，我是+Ax-NET-02;保持折腾，保持热爱;把想法变成现实" />
 
-*用镜头捕捉光影，用代码重塑效率*
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ax-NET-02&style=flat-square&color=58A6FF&label=访问次数" />
 
 </div>
 
 ---
 
-### 👨‍💻 关于我 | About Me
-
-👋 我是一名穿梭在**视频创作**与**程序开发**之间的跨界玩家，目前在成都打怪升级
-
-- 🎬 **主线任务:** 摄影剪辑与新媒体运营，擅长构筑视觉冲击力
-- 💻 **支线任务:** Python 开发者，热衷于构建美观实用的桌面级 GUI 应用 (PyQt6 / PySide6)
-- 🛠️ **常驻技能:** 图像批处理自动化、Docker 容器部署、Ubuntu 环境折腾
-- 🚴‍♂️ **离线状态:** 喜欢骑车兜风，折腾 3D 打印与硬核模型制作，偶尔重温《幸运☆星》等经典番剧
-- 🏠 **设计工坊:** 维护个人枢纽 **Ax-NET**
-
----
-
-### 🛠️ 技术栈 | Tech Stack
-
 <div align="center">
 
-**编程与开发**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 👋 你好，我是 Ax-NET-02
 
-**影视与设计**<br>
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D_Printing-F96914?style=for-the-badge&logo=makerbot&logoColor=white)
+**一个喜欢折腾代码、服务器、NAS、AI、视频以及各种奇奇怪怪东西的人。**
+
+> 人生何处不青山，
+> 何必执着于眼前这一座。
 
 </div>
 
 ---
 
-### 📊 Github 数据 | Stats
+## 🧑‍💻 关于我
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   👨‍💻  程序开发                              │
+│   🖥️  NAS / 服务器                           │
+│   🤖  人工智能 / 本地大模型                  │
+│   🐳  Docker / 私有化部署                    │
+│   🎬  视频拍摄 / 剪辑                         │
+│   🛠️  喜欢折腾各种东西                        │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+* 🔭 正在做一些属于自己的小项目
+* 💻 主要折腾 **Vue 3 / TypeScript / Python / C++**
+* 🖥️ 喜欢研究 **NAS、服务器以及私有化部署**
+* 🤖 正在探索 **AI、本地大模型与自动化**
+* 🎬 对 **摄影、视频拍摄、剪辑** 有兴趣
+* 🧪 喜欢把脑子里的想法真正做出来
+* 📚 一边踩坑，一边学习
+
+---
+
+## 🚀 最近在做什么
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 轻盈小岛
+
+一个用于记录个人数据的 App。
+
+**技术**
+
+`Vue 3` `TypeScript` `Vant` `IndexedDB`
+
+</td>
+
+<td width="50%">
+
+### 🖥️ NAS 折腾计划
+
+研究家庭服务器、NAS以及各种私有化服务。
+
+**方向**
+
+`Linux` `Docker` `NAS` `API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 本地 AI
+
+尝试在自己的设备上运行 AI 和大模型。
+
+**方向**
+
+`Ollama` `LLM` `Python` `自动化`
+
+</td>
+
+<td width="50%">
+
+### 🎬 视频创作
+
+记录生活、工作以及一些有意思的折腾过程。
+
+**方向**
+
+`摄影` `拍摄` `剪辑` `内容创作`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ 技术栈
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ax-NET-02&show_icons=true&theme=cobalt)](https://space.bilibili.com/1800727927)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ax-NET-02&show_icons=true&theme=cobalt)](https://github.com/Ax-NET-02)
+### 编程语言
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css" />
+
+<br><br>
+
+### 开发框架
+
+<img src="https://skillicons.dev/icons?i=vue,vite,nodejs,npm" />
+
+<br><br>
+
+### 工具与环境
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,nginx" />
 
 </div>
 
 ---
 
-### 📬 找到我 | Connect with me
+## 📊 GitHub 数据
 
 <div align="center">
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-去B站看看-FA7298?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1800727927)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ax-NET-02&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ax-NET-02&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ax-NET-02&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 我的贡献
+
+<div align="center">
+
+[![贡献图](https://github-readme-activity-graph.vercel.app/graph?username=Ax-NET-02\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/Ax-NET-02)
+
+</div>
+
+---
+
+## ⭐ 我的项目
+
+<div align="center">
+
+<a href="https://github.com/Ax-NET-02">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ax-NET-02&repo=lightweight-island&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/Ax-NET-02">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ax-NET-02&repo=your-project&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**这里会慢慢放下我做过的东西。**
+
+</div>
+
+---
+
+## 🌱 正在学习
+
+<div align="center">
+
+`Vue 3`　`TypeScript`　`Python`　`C++`　`Docker`
+
+`Linux`　`NAS`　`AI`　`大模型`　`自动化`
+
+</div>
+
+---
+
+## 💭 一些话
+
+<div align="center">
+
+### 人生何处不青山
+
+<br>
+
+**不用急着证明自己。**
+
+**先把想做的事情做好。**
+
+**把一个个想法变成现实。**
+
+<br>
+
+`学习 → 折腾 → 踩坑 → 解决 → 再折腾`
+
+</div>
+
+---
+
+## 📮 找到我
+
+<div align="center">
+
+<a href="https://github.com/Ax-NET-02">
+<img src="https://img.shields.io/badge/GitHub-Ax--NET--02-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://space.bilibili.com/1800727927">
+<img src="https://img.shields.io/badge/哔哩哔哩-鱼刺的生存日记-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+**感谢你来到这里。**
+
+**愿我们都能走出属于自己的路。**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer" />
 
 </div>
